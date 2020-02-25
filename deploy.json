@@ -1,0 +1,6 @@
+{
+  "run": "java -jar $ARTIFACT0 --server.port=$PORT0",
+  "venv": {
+    "type": "maven"
+  }
+}
